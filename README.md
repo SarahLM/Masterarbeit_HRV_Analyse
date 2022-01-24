@@ -37,7 +37,7 @@ Für die beiden anderen kann leider aus Datenschutzgründen keine Beispieldatei 
 
 Im folgenden soll ein möglicher Abalauf der Analyse und Auswertung der Schlafstadien und des Hypnogramms anhand der `somnomedics` Dateien gezeigt werden.
 
-1. Die heruntergeldenen Beispieldaten werden in in den dazugehörigen Ordner `Probanden` abgelegt.
+1. Die heruntergeldenen Beispieldaten von Zonedo werden in einen Ordner Probanden gespeichert (falls nicht, Pfad im Jupyter Notebook anpassen).
 1. danach wird die Datei `hrv_analysis-somnomedics.ipynb` aufgerufen
 1. Um das Script durchlaufen zu lassen wird in Jupyter Notebook auf das __play__ Symbol gedrückt.
 
@@ -48,7 +48,7 @@ Im folgenden soll ein möglicher Abalauf der Analyse und Auswertung der Schlafst
 Um die mit Doctest erstellten Tests auszuführen. ist das Vorgehen ähnlich wie oben beschrieben:
 
 1. Für die Tests werden die Beispieldaten benötigt. 
-1. Es wird die Datei `testting.ipynb` geöffnent, die den Aufruf der Doctest beeinhaltet. 
+1. Es wird die Datei `testing.ipynb` geöffnent, die den Aufruf der Doctest beeinhaltet. 
 1. Um die Tests zu starten, wird in Jupyter Notebook auf das __play__ Symbol gedrückt.
 
 ### Verbose
