@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+bin/
+etc/
+lib/
+plots/
+Probanden/
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+pyvenv.cfg
+share/
+anonymized_sample.edf
