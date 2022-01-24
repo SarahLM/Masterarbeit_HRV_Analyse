@@ -17,45 +17,16 @@ Für das ML:
 - statistik_ml.ipynb
 
 
+## Beispiel
 
+Beispieldaten finden sich für die Hypnogramme im Repository: 
 
-## Features
+Somnomedics = "Schlafprofil.txt"
+Nihon Kohden = "Nihon_hypno_anon.html"
+Alice5 = "STADIUManonym_alice.csv"
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-## Installation
+Eine Beispiel EDF kann unter https://zenodo.org/record/5895263 heruntergeladen werden, passend für den Ablauf von Somnomedics. 
+Für die beiden anderen kann leider aus Datenschutzgründen keine Beispieldatei bereitgestellt werden. 
 
-Install my-project with npm
+## mögliche Fehler: 
 
-```bash
-  npm install my-project
-  cd my-project
-```
-
-
-    
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Appendix
-
-Any additional information goes here
